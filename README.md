@@ -1,16 +1,22 @@
-## Hi there 👋
+# Merhaba, ben Enes 👋
 
-<!--
-**Lomion9/Lomion9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trakya Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim.
+Veriyi anlamlı hikayeye dönüştürmek için SQL, Power BI ve 
+veri modelleme üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+## 🛠️ Teknik Yetkinlikler
+- **Veri Analizi:** SQL, DAX, Power Query
+- **Görselleştirme:** Power BI
+- **Veritabanı:** PostgreSQL, MySQL
+- **Diğer:** Git, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projeler
+| Proje | Açıklama | Araçlar |
+|-------|----------|---------|
+| [Adventure Works BI](https://github.com/Lomion9/Adventure-Works-BI-Project) | Kurumsal satış ve kar performansı analizi | SQL, Power BI, DAX |
+| [Pizza Satış Raporu]((https://github.com/Lomion9/pizza-operations-data-analysis)) | Restoran operasyon ve sipariş trend analizi | Power BI, Power Query |
+| [Portfolio Web Sitesi]((https://github.com/Lomion9/cv-sitem)) | Kişisel proje sergisi | HTML, CSS |
+
+## 📫 İletişim
+- LinkedIn: [linkedin.com/in/enes-yildirim9](https://linkedin.com/in/enes-yildirim9)
+- Mail: enes.yildirim2049@gmail.com
